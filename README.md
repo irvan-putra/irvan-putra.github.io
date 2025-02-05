@@ -2,10 +2,10 @@ Exploring systems & stories through projects, writings, and communities.
 
 Telegram: [irvanipy](https://t.me/irvanipy) admin of [Python Indonesia](https://t.me/PythonID)
 
-1. I'm open to work: full/part-time employment still possible. Currently freelance:
-- Creating code/website/app/pipeline + migrating from legacy systems + add AI.
-- Writing documentations + doing reviews (cons/pros of some tech).
-- Training your engineers + recording tutorial videos / consulting.
+1. I'm open to work. Currently freelance, check my [Linkedin](https://www.linkedin.com/in/irvanputra/). What I can do:
+- Creating code/website/app/pipeline, migrating from legacy systems.
+- Writing documentations, doing reviews (cons/pros of some tech).
+- Training your engineers, recording tutorial videos / consulting.
 
 2. City Lead of Jakarta [BuildClub.ai](https://buildclub.ai) with [meetups every 2 weeks](https://lu.ma/user/irvanipy)
 - Intro each other, 2-3 hours explore AI by yourself/team, and share demo/progress.
