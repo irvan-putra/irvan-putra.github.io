@@ -23,8 +23,8 @@ Telegram: [irvanipy](https://t.me/irvanipy) admin of [Python Indonesia](https://
 
 4. Helping [MIT Regional Entrepreneurship Acceleration Program in Indonesia](https://mitreap.id)
 - To popularize [Deep Tech](https://en.wikipedia.org/wiki/Deep_tech), tech that need deep research
-- Current campaign: quiz winners travel to MIT, for school & university students.
-- Get involved: check out mitreap.id/teams and please spread the info around.
+- Current campaign, [Road to MIT](https://mitreap.id/road-to-mit/): quiz winners travel to MIT, for school & university students.
+- Get involved: check out [MIT REAP Indonesia Teams page](https://mitreap.id/teams/) and please spread the info around.
 
 5. Managing [VNProject Indonesia](https://vnproject.id) Indonesia community for VN developers & players.
 - VN = [Visual Novel](https://en.wikipedia.org/wiki/Visual_novel): game genre by narrative, dialogues, & illustrations.
@@ -33,4 +33,4 @@ Telegram: [irvanipy](https://t.me/irvanipy) admin of [Python Indonesia](https://
 
 6. Helping my friend in Germany for a startup, [GoingRoute](https://github.com/GoingRoute), to help people plan their travel.
 
-7. Helping my friend for a roject related to AI + cryptocurrency, [TheBoardAI](https://github.com/TheBoardAI).
+7. Helping my friend for a project related to AI + cryptocurrency, [TheBoardAI](https://github.com/TheBoardAI).
