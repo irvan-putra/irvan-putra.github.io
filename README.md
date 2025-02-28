@@ -21,16 +21,7 @@ Telegram: [irvanipy](https://t.me/irvanipy) admin of [Python Indonesia](https://
 - Looking to apply here to: [Google.org Accelerator: Generative AI open call](https://impactchallenge.withgoogle.com/genaiaccelerator/)
 - Looking for partners either for papers, projects, or creating products from this.
 
-4. Helping [MIT Regional Entrepreneurship Acceleration Program in Indonesia](https://mitreap.id)
-- To popularize [Deep Tech](https://en.wikipedia.org/wiki/Deep_tech), tech that need deep research
-- Current campaign, [Road to MIT](https://mitreap.id/road-to-mit/): quiz winners travel to MIT, for school & university students.
-- Get involved: check out [MIT REAP Indonesia Teams page](https://mitreap.id/teams/) and please spread the info around.
-
-5. Managing [VNProject Indonesia](https://vnproject.id) Indonesia community for VN developers & players.
+4. Managing [VNProject Indonesia](https://vnproject.id) Indonesia community for VN developers & players.
 - VN = [Visual Novel](https://en.wikipedia.org/wiki/Visual_novel): game genre by narrative, dialogues, & illustrations.
 - Game Jams: create games within timeframes, solo/team, results are at itch.io
 - Looking for sponsors for game jams and join booth in Comifuro / others.
-
-6. Helping my friend in Germany for a startup, [GoingRoute](https://github.com/GoingRoute), to help people plan their travel.
-
-7. Helping my friend for a project related to AI + cryptocurrency, [TheBoardAI](https://github.com/TheBoardAI).
