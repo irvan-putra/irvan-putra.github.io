@@ -7,7 +7,7 @@ Telegram: [irvanipy](https://t.me/irvanipy) admin of [Python Indonesia](https://
 - Writing documentations, doing reviews (cons/pros of some tech).
 - Training your engineers, recording tutorial videos / consulting.
 
-2. City Lead of Jakarta [BuildClub.ai](https://buildclub.ai) with [meetups every 2 weeks](https://lu.ma/user/irvanipy)
+2. City Lead of Jakarta [BuildClub.ai](https://buildclub.ai) with [routine meetups](https://lu.ma/user/irvanipy)
 - Intro each other, 2-3 hours explore AI by yourself/team, and share demo/progress.
 - Keeping people committed, checking their progress, and creating network & feedback.
 - Whatsapp group for Indonesia members & Slack for global members. Come join us!
