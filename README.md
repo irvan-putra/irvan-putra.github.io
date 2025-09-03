@@ -18,7 +18,6 @@ Telegram: [irvanipy](https://t.me/irvanipy) admin of [Python Indonesia](https://
 - [PromptEng Workshop at ACM WebConf April 2025](https://prompteng-ws.github.io/2025/)
 - Questions made by AI reviewed by teachers and then sent to Indonesia remote (edge) areas.
 - Offline AI to evaluate answers from students, saving time and fulfilling capability gap.
-- Looking to apply here to: [Google.org Accelerator: Generative AI open call](https://impactchallenge.withgoogle.com/genaiaccelerator/)
 - Looking for partners either for papers, projects, or creating products from this.
 
 4. Managing [VNProject Indonesia](https://vnproject.id) Indonesia community for VN developers & players.
