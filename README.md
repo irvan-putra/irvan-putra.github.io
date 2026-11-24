@@ -24,3 +24,7 @@ Telegram: [irvanipy](https://t.me/irvanipy) admin of [Python Indonesia](https://
 - VN = [Visual Novel](https://en.wikipedia.org/wiki/Visual_novel): game genre by narrative, dialogues, & illustrations.
 - Game Jams: create games within timeframes, solo/team, results are at itch.io
 - Looking for sponsors for game jams and join booth in Comifuro / others.
+
+---
+
+Built with AI assistance (Instinct and others). Not everything has been reviewed by Irvan.
