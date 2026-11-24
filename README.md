@@ -27,7 +27,7 @@ Telegram: [irvanipy](https://t.me/irvanipy) admin of [Python Indonesia](https://
 
 ---
 
-This repo holds the vanipy.com root pages only (this README and /bcindo). Each project has its own repo and its own page at vanipy.com/<project>/. Old project paths (konteks, kunjung copy, vana) were removed on 2026-11-24; the tag `before-deadname-scrub` keeps them recoverable.
+This repo holds the vanipy.com root pages only. Projects live in their own repos, each with its own page at vanipy.com/<project>/.
 
 ---
 
