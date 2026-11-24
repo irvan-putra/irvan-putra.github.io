@@ -27,8 +27,5 @@ Telegram: [irvanipy](https://t.me/irvanipy) admin of [Python Indonesia](https://
 
 ---
 
-This repo holds the vanipy.com root pages only. Projects live in their own repos, each with its own page at vanipy.com/<project>/.
 
 ---
-
-Built with AI assistance (Instinct and others). Not everything has been reviewed by Irvan.
